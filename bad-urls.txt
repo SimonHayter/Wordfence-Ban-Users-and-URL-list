@@ -1,0 +1,3 @@
+#Top 39 Bad URLS
+
+/.env,/1.php,/1index.php,/2index.php,/ALFA_DATA,/a.php,/about.php,/admin/.env,/admin/uploads/,/alfa.php,/alfacgiapi/perl.alfa,/api/.env,/config.bak.php,/config.php,/ffAA531.php,/fw.php,/gank.php.PhP,/laravel/.env,/new-index.php,/olux.php,/prxjgiuh.php,/qws.php,/shell.php,/shells.php,/sites/.env,/sites/default/files/,/templates/beez3/,/test.php,/up.php,/upload.php,/vabba.php,/wp-2019.php,/wp-content/31cx4.php,/wp-content/themes/sketch/404.php,/wp-vatva.php,/wp.php,/x.php,/xleet-shell.php,/z.php,
